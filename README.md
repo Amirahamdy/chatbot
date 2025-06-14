@@ -1,14 +1,3 @@
-3# matadate
-title: Chatbot Intent Classifier
-emoji: 🤖
-colorFrom: red
-colorTo: blue
-sdk: gradio
-sdk_version: 5.34.0
-app_file: inference.py
-pinned: false
-
-
 Chatbot Intent Classification
 This Space is a chatbot that predicts user intent and responds accordingly using a TensorFlow model.
 
